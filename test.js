@@ -1,6 +1,6 @@
 const { expect } = require('chai');
 const { decode } = require('./src/index.js');
-
+10101010
 describe("Easy", function() {
     it("Sentence test 1", function() {
         const expr = "00101010100000000010001011101000101110100000111111**********00001011110000111111000010111000101110100000111010";
